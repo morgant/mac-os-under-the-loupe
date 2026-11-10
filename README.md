@@ -31,7 +31,7 @@ software engineers at Apple Computer Inc strived for and applied.
 
 ## LICENSE
 
-Copyright (c) 2006 Morgan T. Aldridge
+Copyright (c) 2026 Morgan T. Aldridge
 
 This proiject is published under the [CC BY-NC-SA 4.0](LICENSE) license.
 See the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0
