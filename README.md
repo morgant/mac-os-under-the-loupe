@@ -25,6 +25,10 @@ the microscope. Or, under the loupe—if you will—which feels more appropriate
 for the fine workmanship and artistry which the Macintosh hardware and
 software engineers at Apple Computer Inc strived for and applied.
 
+## NO AI Statement
+
+[![100% Human Created Content](.github/assets/no-ai-icon/no-ai-icon-08.png)](https://no-ai-icon.com/statement/?url=github.com/morgant/mac-os-under-the-loupe)
+
 ## LICENSE
 
 Copyright (c) 2006 Morgan T. Aldridge
